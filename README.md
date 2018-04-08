@@ -1,5 +1,5 @@
-###Udacity Full Stack Nanodegree Project 1
-#Movie Site
+### Udacity Full Stack Nanodegree Project 1
+# Movie Site
 
 - No external packages required
 - Built with Python 2.7.14
